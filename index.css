@@ -43,7 +43,6 @@ h1{
     color: yellow;   
     text-shadow: -1px -1px 15px rgb(103, 123, 216), 1px -1px 15px rgb(103, 123, 216), -1px 1px 15px rgb(103, 123, 216), 1px 1px 15px rgb(103, 123, 216);
     font-size: 500%;
-    -webkit-text-stroke: 00.5px blue; /* Ancho y color del borde */
     
       
 }
