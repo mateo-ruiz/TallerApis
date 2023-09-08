@@ -39,12 +39,10 @@ p {
 }
 
 h1{
-    font-family: 'Pokemon Solid', sans-serif;
+    font-family: 'Titan One', cursive;
     color: yellow;   
-    text-shadow: -1px -1px 15px rgb(103, 123, 216), 1px -1px 15px rgb(103, 123, 216), -1px 1px 15px rgb(103, 123, 216), 1px 1px 15px rgb(103, 123, 216);
-    font-size: 500%;
-    
-      
+    font-size: 500%;   
+    -webkit-text-stroke: 00.5px rgb(60, 60, 202); /* Ancho y color del borde */
 }
 
 label{
