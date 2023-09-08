@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #971f1f;
+}
+
+.container {
+    margin-top: -50px;
+}
+
+#boton {
+    padding: 10px 20px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+.resultados {
+    margin-top: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+h2 {
+    margin-top: 10px;
+    color: white;
+}
+
+p {
+    font-style: italic;
+    color: white;
+}
+
+h1{
+    font-family: 'Pokemon Solid', sans-serif;
+    color: yellow;   
+    text-shadow: -1px -1px 15px rgb(103, 123, 216), 1px -1px 15px rgb(103, 123, 216), -1px 1px 15px rgb(103, 123, 216), 1px 1px 15px rgb(103, 123, 216);
+    font-size: 500%;
+    -webkit-text-stroke: 00.5px blue; /* Ancho y color del borde */
+    
+      
+}
+
+label{
+    font-size: larger;
+    color: yellow;
+}
+
+#pokemonNombre{
+    border-radius: 10px;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    color: black;
+    background-color: yellow;
+    font-weight: bold;
+    
+}
+
+.cuadro {
+    width: 80%; /* Cambia el ancho según tus necesidades */
+    margin: 0 auto; /* Centra el cuadro horizontalmente */
+    padding: 20px; /* Añade relleno al cuadro */
+    border: 1px solid yellow; /* Borde negro fino */
+    text-align: center;
+    background-color: #971f1f;
+    margin-top: 50px;
+}
