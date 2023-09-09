@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'ketchum';
+    src: url(/Ketchum/Ketchum.otf)
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -39,10 +44,11 @@ p {
 }
 
 h1{
-    font-family: 'Pokemon Solid', sans-serif;
+    font-family: ketchum;
     color: yellow;   
-    font-size: 500%;   
-    -webkit-text-stroke: 00.5px rgb(60, 60, 202); /* Ancho y color del borde */
+    font-size: 500%;  
+    -webkit-text-stroke: 1px rgb(28, 96, 136);
+   
 }
 
 label{
